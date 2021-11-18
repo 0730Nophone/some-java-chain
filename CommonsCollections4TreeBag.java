@@ -14,8 +14,7 @@ import ysoserial.payloads.util.PayloadRunner;
 import ysoserial.payloads.util.Reflections;
 
 import javax.xml.transform.Templates;
-import java.util.PriorityQueue;
-import java.util.Queue;
+
 
 @Dependencies({"org.apache.commons:commons-collections4:4.0"})
 @Authors({ Authors.FROHOFF })
